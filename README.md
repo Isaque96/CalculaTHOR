@@ -2,6 +2,8 @@
 
 This simple calculator was made entirely in react. This project was executed this way to fix my learning in React. The focus of the code was not a super calculator, just to fix what I had learned.
 
+![CalculaTHOR](https://user-images.githubusercontent.com/70076669/133156969-30757732-1ee5-4168-a7a2-71fc266679d8.jpg)
+
 ## Available Scripts
 
 In the project directory, you can run:
