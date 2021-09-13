@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Purpose
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This simple calculator was made entirely in react. This project was executed this way to fix my learning in React. The focus of the code was not a super calculator, just to fix what I had learned.
 
 ## Available Scripts
 
